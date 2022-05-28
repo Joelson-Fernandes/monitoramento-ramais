@@ -1,0 +1,12 @@
+gcallcenter-SUPORTE              has 0 calls (max 20) in 'ringall' strategy (1s holdtime), W:0, C:3, A:0, SL:0.0% within 0s
+   Members:
+      SIP/7000 with penalty 1 (dynamic) (In use) has taken no calls yet Chaves
+      SIP/7001 with penalty 1 (dynamic) (Ring) as taken no calls yet Kiko
+      SIP/7002 with penalty 1 (dynamic) (Unavailable) has taken 3 calls (last was 1800 secs ago) Chiquinha
+      SIP/7003 with penalty 1 (dynamic) (Unavailable) has taken 48 calls (last was 15447 secs ago) Nhonho
+      SIP/7004 with penalty 1 (dynamic) (paused) (Not in use) has taken no calls yet Godines
+      SIP/7005 with penalty 1 (dynamic) (Not in use) has taken no calls yet Seu Madruga
+      SIP/7006 with penalty 1 (dynamic) (Unavailable) has taken 20 calls (last was 1506 secs ago) Popis
+      SIP/7007 with penalty 1 (dynamic) (Not in use) has taken 20 calls (last was 1506 secs ago) Jaiminho
+      SIP/7008 with penalty 1 (dynamic) (paused) (Not in use) has taken 11 calls (last was 600 secs ago) Girafales
+   No Callers

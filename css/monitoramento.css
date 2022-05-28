@@ -1,0 +1,74 @@
+.cartao {
+    width: 220px;
+    height: 90px;
+    position: relative;
+    padding: 8px;
+    margin: 2px;
+    background-color: #fff;
+    font-weight: 500;
+}
+
+.cartao.inativo {
+    background-color: #ccc;
+}
+
+.icone-status {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.ocupado {
+    background-color: #ff0000;
+}
+
+.border-ocupado {
+    border: 3px solid #ff0000;
+    border-radius: 5px;
+}
+
+.disponivel {
+    background-color: #04ea04;
+}
+
+.border-disponivel {
+    border: 3px solid #04ea04;
+    border-radius: 5px;
+}
+
+.indisponivel {
+    background-color: rgb(75, 75, 75);
+}
+
+.border-indisponivel {
+    border: 3px solid rgb(75, 75, 75);
+    border-radius: 5px;
+}
+
+.pausa {
+    background-color: #ffa500;
+}
+
+.border-pausa {
+    border: 3px solid #ffa500;
+    border-radius: 5px;
+}
+
+.chamando {
+    background-color: #ff0000;
+    animation: piscar 1s linear infinite;
+}
+
+.border-chamando {
+    border: 3px solid #ff0000;
+    border-radius: 5px;
+}
+
+@keyframes piscar {
+    50% {
+        opacity: 0;
+    }
+}
